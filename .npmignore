@@ -1,0 +1,9 @@
+*.html
+*.log
+.github/
+AUTHORS
+Makefile
+benchmark
+dist
+test
+.editorconfig
